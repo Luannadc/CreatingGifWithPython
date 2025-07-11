@@ -1,6 +1,6 @@
 # Creating Gif With Python
 
-### 🐱 Cat GIF Generator
+### 🐱 GIF Generator
 
 This project generates an animated GIF from two pixel art images. You can create it with any image of your choice.
 
