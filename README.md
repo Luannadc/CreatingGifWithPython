@@ -9,7 +9,7 @@ This project generates an animated GIF from two pixel art images. You can create
 Generate an animated GIF using two images with Python, leveraging the `imageio` and `Pillow` libraries.
 
 ### 📁 Project Structure
- - <b>create_gif.py<\b> python code that creates the GIF.
- - <b>cat_image01.png<\b> image 01.
- - <b>cat_image02.png<\b> image 02.
- - <b>cat.gif<\b> final animated GIF.
+ - <b>create_gif.py<b> Python code that creates the GIF.
+ - <b>cat_image01.png<b> Image 01.
+ - <b>cat_image02.png<b> Image 02.
+ - <b>cat.gif<b> Final animated GIF.
